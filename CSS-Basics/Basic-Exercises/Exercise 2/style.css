@@ -1,0 +1,18 @@
+  * {
+    font-family: Verdana;
+  }
+  .pink {
+    background-color: #ffc0cb;
+  }
+  #big {
+    color: #0000ff;
+    font-size: 36px;
+  }
+  .bigger {
+    font-size: 24px;
+  }
+  #green {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+  }
