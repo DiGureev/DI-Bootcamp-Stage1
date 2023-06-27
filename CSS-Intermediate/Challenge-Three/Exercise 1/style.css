@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  margin: left;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.rose {
+  width: 150px;
+  height: 100px;
+  background-color:rgb(252, 156, 172);
+  border: 3px solid black;
+  margin: 20px;
+  float: left;
+}
+
+.blue {
+  width: 500px;
+  height: 100px;
+  background-color:rgb(191, 231, 248);
+  border: 3px solid black;
+  margin: 20px;
+  float: left;
+
+}
+
+.yellow {
+  width: 690px;
+  height: 100px;
+  background-color:yellow;
+  margin: 20px;
+  border: 3px solid black;
+  float: left;
+}
