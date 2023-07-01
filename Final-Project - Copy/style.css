@@ -10,11 +10,11 @@ body {
 
 /*Rules for links*/
 
-a:active {
+article a:active {
   color: #024471;
 }
 
-a:visited {
+article a:visited {
   color: #B8441D;
 }
 
@@ -82,6 +82,14 @@ nav a:hover {
   border-right: 3px solid #024471;
   padding-left: 10px;
   color: #024471;
+}
+
+.sidebar a:active {
+  color: #024471;
+}
+
+.sidebar a:visited {
+  color:#B8441D;
 }
 
 .sidebar p,
